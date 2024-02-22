@@ -1,0 +1,13 @@
+@import'./scss/bootstrap';
+@import'./scss/dashboard';
+@import'./scss/register';
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  // background-color: #456132;
+}
+main {
+  flex: 1 0 auto;
+}
